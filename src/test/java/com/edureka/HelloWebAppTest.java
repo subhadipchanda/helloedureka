@@ -41,7 +41,7 @@ public class HelloWebAppTest extends Mockito{
 
     }
 
-    /*
+ 
     
     @Test
     public void testMul() throws Exception {
@@ -50,5 +50,5 @@ public class HelloWebAppTest extends Mockito{
         assertEquals("Problem with Mul function:", 48, k);
 
     }
-*/
+
 }
